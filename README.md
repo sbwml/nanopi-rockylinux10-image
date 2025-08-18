@@ -7,7 +7,7 @@
   * Password: `password`
 * **Network**: WAN / LAN Ethernet ports are set to **DHCP** by default
 * **Auto expansion**: Root partition will automatically expand to fill the entire storage device on first boot
-* **Kernel version**: `Linux 6.12.41`
+* **Kernel version**: `Linux 6.12.42`
 * **U-Boot version**: `v2025.07`
 * **ARM Trusted Firmware (ATF) version**: `v2.13.0`
 * **TPL version**: `rk3576_ddr_lp4_1866MHz_lp5_2736MHz_v1.09.bin`
